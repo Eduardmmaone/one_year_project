@@ -19,7 +19,7 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
+   git clone https://github.com/Eduardmmaone/one_year_project.git
    cd customer-churn-prediction
    ```
 
